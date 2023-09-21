@@ -12,12 +12,12 @@ FEATURES
 
 PROJECT WORKING
 
-first you will asked for user name and user pin 
+1. first you will asked for user name and user pin 
 user - js
 pin - 1111
-Transfer money - using this feature you can be able to transfer money 
-Request loan - using this feature you can request a loan
-Close account - using this feature you can close a account
+2. Transfer money - using this feature you can be able to transfer money 
+3. Request loan - using this feature you can request a loan
+4. Close account - using this feature you can close a account
 
 LINK OF PROJECT
 https://charming-donut-a28e07.netlify.app/
