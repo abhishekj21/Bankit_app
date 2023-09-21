@@ -10,8 +10,16 @@ FEATURES
 2. Make transfer
 3. show message of withdrawal
 
+PROJECT WORKING
+first you will asked for user name and user pin 
+user - js
+pin - 1111
+Transfer money - using this feature you can be able to transfer money 
+Request loan - using this feature you can request a loan
+Close account - using this feature you can close a account
+
 LINK OF PROJECT
-https://statuesque-smakager-5094c5.netlify.app/
+https://charming-donut-a28e07.netlify.app/
 
 ACKNOWLEDMENT
 
